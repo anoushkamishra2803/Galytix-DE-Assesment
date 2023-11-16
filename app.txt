@@ -1,0 +1,8 @@
+Galytix
+├── module
+│   ├── __init__.py
+│   ├── init_pipeline.py
+│   └── process_data.py
+├── setup.py
+├── requirements.txt
+└── main.py

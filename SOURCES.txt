@@ -1,0 +1,9 @@
+setup.py
+Galytix.egg-info/PKG-INFO
+Galytix.egg-info/SOURCES.txt
+Galytix.egg-info/dependency_links.txt
+Galytix.egg-info/requires.txt
+Galytix.egg-info/top_level.txt
+module/__init__.py
+module/init_pipeline.py
+module/process_data.py
